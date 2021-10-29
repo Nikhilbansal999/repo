@@ -23,6 +23,7 @@ function HeaderComponent() {
         // window.location.reload(false);
         // window.location.reload(false);
         // window.location.reload(false);
+        // bhag boshdike
             let lin=document.getElementById("login");
             let min=document.getElementById("logout");
             if(!logged){return min.style.display="none";
