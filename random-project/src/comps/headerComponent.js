@@ -13,6 +13,7 @@ function HeaderComponent() {
         lin.style.display="inline-block";
                      }
     useEffect(()=>{
+
             let lin=document.getElementById("login");
             let min=document.getElementById("logout");
             if(!logged){return min.style.display="none";
