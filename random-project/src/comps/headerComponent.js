@@ -14,16 +14,6 @@ function HeaderComponent() {
                      }
     useEffect(()=>{
 
-        // const logged=localStorage.getItem("logintoken");
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // window.location.reload(false);
-        // bhag boshdike
             let lin=document.getElementById("login");
             let min=document.getElementById("logout");
             if(!logged){return min.style.display="none";
