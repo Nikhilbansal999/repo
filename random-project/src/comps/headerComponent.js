@@ -16,6 +16,13 @@ function HeaderComponent() {
 
         // const logged=localStorage.getItem("logintoken");
         // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
+        // window.location.reload(false);
             let lin=document.getElementById("login");
             let min=document.getElementById("logout");
             if(!logged){return min.style.display="none";
